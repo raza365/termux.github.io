@@ -1,1 +1,3 @@
-src/App.jsx
+npm create vite@latest rkbookhouse --template react
+cd rkbookhouse
+npm install
